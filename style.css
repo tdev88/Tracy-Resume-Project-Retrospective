@@ -1,0 +1,14 @@
+h1, h2 {
+  color: rgb(0, 45, 128);
+}
+.apply-font {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+h1, h2, p {
+  max-width: 1200px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
